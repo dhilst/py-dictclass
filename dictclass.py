@@ -29,3 +29,6 @@ class DictClass(object):
         d.pop('as_dict', None)
         d.pop('mro', None)
         return d
+
+import doctest
+test = doctest.DocTestSuite()
