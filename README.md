@@ -1,4 +1,4 @@
-# DictClass
+# DictClass [![Build Status](https://travis-ci.org/dhilst/py-dictclass.svg?branch=master)](https://travis-ci.org/dhilst/py-dictclass)
 
 Create dictionaries with the class syntax with support for inheritance.
 
