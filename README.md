@@ -27,5 +27,5 @@ class MyOtherDict(MyDict):
     key3 = 'value3'
 
 
-MyOtherDict.as_dict()  # return a dynamically create dict
+MyOtherDict.as_dict()  # return a dynamically created dict
 ```
