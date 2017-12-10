@@ -1,4 +1,4 @@
-# DictClass [![Build Status](https://travis-ci.org/dhilst/py-dictclass.svg?branch=master)](https://travis-ci.org/dhilst/py-dictclass) [![PyPI](https://img.shields.io/pypi/v/dictclass.svg)]() [![GitHub license](https://img.shields.io/github/license/dhilst/py-dictclass.svg)](https://github.com/dhilst/py-dictclass/blob/master/LICENSE)
+# DictClass [![Build Status](https://travis-ci.org/dhilst/py-dictclass.svg?branch=master)](https://travis-ci.org/dhilst/py-dictclass) [![PyPI](https://img.shields.io/pypi/v/dictclass.svg)](https://pypi.python.org/pypi/dictclass/0.0.1) [![GitHub license](https://img.shields.io/github/license/dhilst/py-dictclass.svg)](https://github.com/dhilst/py-dictclass/blob/master/LICENSE)
 
 Create dictionaries with the class syntax with support for inheritance.
 
