@@ -4,8 +4,8 @@ Create dictionaries with the class syntax with support for inheritance.
 
 # Motivation
 
-1. I hate type curlybraces, quotes and colons.
-2. It's common to use dicts as configuration, this dicts may be very similar differing only
+1. I hate to type curlybraces, quotes and colons.
+2. It's common to use dicts as configuration, these dicts may be very similar differing only
    by some few keys. So having inheritance here is good.
 3. The class syntax is much more readable.
 
